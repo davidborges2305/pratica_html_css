@@ -1,0 +1,57 @@
+td, th{
+    border: black 1px solid; 
+    width: 350px;
+    text-align: center;
+}
+
+th{
+    background-color: lightcoral;
+    color: lightcyan;
+}
+
+.primeira_cor{
+    background-color: #E7F8F7 ;
+}
+
+.segunda-cor{
+    background-color: #FBFCCB ;   
+}
+
+#cor_unica{
+    background-color:#E9E6EA ;
+}
+#title, .subtitle, .post_title {
+    color: #0CD6FA ;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+a {
+    font-style: italic;
+    color: peru;
+}
+.post_title {
+    font-size: 18px;
+    font-style: italic ;
+}
+body {
+    font-family: times new Roman ;
+    max-width: 500px;
+    border: 1px red solid;
+    margin: auto;
+    font
+
+
+
+}
+.post_list {
+    list-style-type: none;
+    padding-left: 55px;
+
+}
+.contacts_list li a {
+    color:royalblue;
+
+}
+img{
+    width: 500px;
+}
